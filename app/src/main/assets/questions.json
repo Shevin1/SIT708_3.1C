@@ -1,0 +1,56 @@
+{
+  "questions": [
+    {
+      "question": "Which country won the FIFA World Cup in 2018?",
+      "options": ["France", "Germany", "Brazil", "Argentina"],
+      "correct_answer": "France"
+    },
+    {
+      "question": "Who is the all-time top scorer in the English Premier League?",
+      "options": ["Alan Shearer", "Wayne Rooney", "Thierry Henry", "Sergio Agüero"],
+      "correct_answer": "Alan Shearer"
+    },
+    {
+      "question": "Which player has won the most Ballon d'Or awards?",
+      "options": ["Lionel Messi", "Cristiano Ronaldo", "Michel Platini", "Johan Cruyff"],
+      "correct_answer": "Lionel Messi"
+    },
+    {
+      "question": "Which team has won the most UEFA Champions League titles?",
+      "options": ["Real Madrid", "Barcelona", "Bayern Munich", "AC Milan"],
+      "correct_answer": "Real Madrid"
+    },
+    {
+      "question": "Who is the current manager of Liverpool FC?",
+      "options": ["Jurgen Klopp", "Pep Guardiola", "Jose Mourinho", "Diego Simeone"],
+      "correct_answer": "Jurgen Klopp"
+    },
+    {
+      "question": "Which player has won the most FIFA World Cup titles?",
+      "options": ["Pele", "Diego Maradona", "Zinedine Zidane", "Cristiano Ronaldo"],
+      "correct_answer": "Pele"
+    },
+    {
+      "question": "What is the nickname of the Argentina national football team?",
+      "options": ["The Samba Boys", "The Blues", "The Albiceleste", "The Azzurri"],
+      "correct_answer": "The Albiceleste"
+    },
+    {
+      "question": "Which country hosted the FIFA World Cup in 2014?",
+      "options": ["Germany", "Brazil", "Russia", "South Africa"],
+      "correct_answer": "Brazil"
+    },
+    {
+      "question": "Who won the UEFA Euro 2020?",
+      "options": ["Italy", "England", "France", "Portugal"],
+      "correct_answer": "Italy"
+    },
+    {
+      "question": "Which player has the most goals in a single UEFA Champions League season?",
+      "options": ["Lionel Messi", "Cristiano Ronaldo", "Robert Lewandowski", "Raul"],
+      "correct_answer": "Lionel Messi"
+    }
+  ]
+}
+
+
